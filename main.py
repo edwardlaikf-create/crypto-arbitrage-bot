@@ -1,5 +1,3 @@
-!pip install -q ccxt requests pytz flask
-
 import ccxt
 import requests
 import time
